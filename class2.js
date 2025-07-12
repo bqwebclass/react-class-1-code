@@ -87,3 +87,6 @@ console.log(
 // filter  prod where title include "Box" 
 // find  prod where title = "Fan" 
 // add one more property "deliveryFee: 0 or 100  (0 if price > 400) " using .map 
+
+// ashcusahg 
+// sachsahc
